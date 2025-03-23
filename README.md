@@ -5,21 +5,20 @@ Welcome to the **IT3232 E-Commerce Practicals** repository! This repository cont
 Each practical is included in a separate folder naming with the relevant date, with a **README.md** file, detailing the objective, implementation, and execution steps.  
 
 
+## 🛠️ Technologies Used  
 
-🛠️ Technologies Used
-Java – Programming language
-
-Spring Boot – Backend framework
-
-Maven – Dependency management
-
-Spring Web – RESTful web service development
-
-Git & GitHub – Version control & repository hosting
+- **[Java](https://www.java.com/)** – A high-level, object-oriented programming language.  
+- **[Spring Boot](https://spring.io/projects/spring-boot)** – A framework for building Java-based web applications.  
+- **[Maven](https://maven.apache.org/)** – A build automation and dependency management tool for Java projects.  
+- **[Spring Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)** – A Spring Boot module for creating RESTful web services.  
+- **[Git](https://git-scm.com/)** – A distributed version control system for tracking changes in source code.  
+- **[GitHub](https://github.com/)** – A cloud-based platform for version control and collaborative development.  
 
 
-👩‍💻 Author :
-Imalsha Fernando
-📌Course:IT3232 – E-Commerce
+
+## 👩‍💻 Author  
+
+**Imalsha Fernando.**  
+📌**Course:** IT3232 – E-Commerce 
 
 
